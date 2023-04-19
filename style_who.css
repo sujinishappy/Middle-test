@@ -31,6 +31,15 @@ header span{
     height: 40px;
     width: auto;
 }
+.logo a{
+    text-decoration: none;
+    font-size: 30px;
+font-weight: bold;
+color: #251a1a;
+}
+.logo a:hover{
+    color: #251a1a;
+}
 header ul{
     list-style: none;
     display: flex;
